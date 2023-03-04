@@ -7,4 +7,4 @@ Learnings: In this lesson, I learned a new function, type(), which allows you to
 
 Connections: Some real-world connections I made with lists, in the context of this program, are menus of any kind, such as at restaurants or on a website. These menus are connected to lists in this program because in the program the items in the list are shown on the screen and the user can use the buttons to scroll through the items, they can pick which item to display. Similarly, in menus, the user can browse through each item and pick one. For example, if I was at a restaurant I would look at the menu and order any food I want or on a website, I can look through the menu options and click on any of them based on what I want.
 
-![Image](Flowchart.jpg)
+![Image](flowchart.jpg)
